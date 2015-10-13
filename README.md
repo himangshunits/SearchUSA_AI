@@ -2,17 +2,6 @@
 Solution to a Pathfinding Agent problem which keeps travelling between different cities of USA and Canada. Reference to AI Class
 
 
-/*
-Course: Artificial Intelligence CSC 520 ( 001 )
-Instructor: Dennis Bahler
-Description: Fall 2015, Homework 2 Solutions.
-Student Name: Himangshu Ranjan Borah
-Student ID: 200105222
-Unity ID: hborah
-
-##Code for the problem in question no. 1
-##Author : Himangshu Ranjan Borah
-
 This code implements a Uniform Cost Search, GreedySearch and A Star Search on the US map given in the question.
 
 Please call SearchUSA searchtype srccityname destcityname as given in the question where searchtype can be astar, greedy or uniform.
